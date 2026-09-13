@@ -4,7 +4,7 @@
 
 ### Full-Stack Engineer &nbsp;·&nbsp; Mobile &nbsp;·&nbsp; Backend &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; AI Systems
 
-*Final-year BTech CS student who ships production software — not tutorials. I've independently built and monetized an AI mobile app used by thousands, engineered high-throughput Go backends, and contributed to a 114K★ open-source project trusted by developers worldwide. Selected as a Google Gemini Student Ambassador. Currently targeting backend/full-stack roles in Japan 🇯🇵 and Europe 🇪🇺.*
+*Final-year BTech CS student who ships production software — not tutorials. I've independently built and monetized an AI mobile app used by thousands, engineered high-throughput Go backends, and contributed to a 114K★ open-source project trusted by developers worldwide. Selected as a Google Gemini Student Ambassador.*
 
 <p>
   <a href="https://www.linkedin.com/in/hariompaswan0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
